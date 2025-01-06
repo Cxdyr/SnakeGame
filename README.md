@@ -12,3 +12,6 @@ Then use either WASD or Up Down Left Right to control the snake, once game over 
 
 # SnakeGame
 This is a simple python program that creates the snake game that we all know and love, it is based on some code from this video: https://www.youtube.com/watch?v=FtqWCo1_I4g&t=1s, as a base for the logic of the program.
+
+# Code recap and demonstration video
+[![Watch the video](https://img.youtube.com/vi/rzeUH3K_L84/0.jpg)](https://www.youtube.com/watch?v=rzeUH3K_L84)
